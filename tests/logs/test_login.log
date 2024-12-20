@@ -1,0 +1,7 @@
+2024-12-20 11:59:50,669 - INFO - Initializing Appium driver...
+2024-12-20 12:00:00,425 - INFO - Appium driver initialized: <appium.webdriver.webdriver.WebDriver (session="df0bfcbe-deee-442d-9914-d1675a027d00")>
+2024-12-20 12:00:00,428 - INFO - Starting test for failed login...
+2024-12-20 12:00:02,791 - INFO - Login attempt with invalid credentials made.
+2024-12-20 12:00:03,013 - INFO - Error message displayed successfully.
+2024-12-20 12:00:04,449 - INFO - Error popup button clicked.
+2024-12-20 12:00:04,872 - INFO - Appium driver quit.
